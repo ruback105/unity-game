@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fb0e879296d8cdd40aa4979472e2434b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - theBrick: {fileID: 5463143403504535999, guid: ddd15a9d046d57d49964b41222274659,
+      type: 3}
+  - theAbyss: {fileID: 6728873615485646988, guid: 19855ffe9c2896b4ba71f6acd4cea55d,
+      type: 3}
+  - theWhirpool: {fileID: 7842937036907636439, guid: 10b52bcf82df1ed4c8f8fc251b8f07f7,
+      type: 3}
+  - theTree: {fileID: 8425821873672419624, guid: f7467bd63c5a3fb44a8555228f5cde7d,
+      type: 3}
+  - theRoad: {fileID: 5892067612872040528, guid: 062ccd886357f0c4799885dd37271b27,
+      type: 3}
+  - player: {fileID: 899408099412769715, guid: db1bc5c0884e917439bb7c36ff702fef, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
